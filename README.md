@@ -37,5 +37,6 @@ Projeto proposto pela **DIO** no **Bootcamp Caixa - Inteligência Artificial na 
 ![logo](https://github.com/user-attachments/assets/ac5705f9-950a-4c18-a4ca-fd1302d4e726)
 ![8e3f99ec-9831-43d7-8b68-f25c8a2d570f](https://github.com/user-attachments/assets/f352e0ed-c679-4164-b791-d6fbd42befcd)
 <br>
+
 ---
 ⭐️ *Se este projeto te ajudou a entender melhor sobre ativos locais e semântica, deixe uma estrela!*
